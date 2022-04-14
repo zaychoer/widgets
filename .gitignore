@@ -38,3 +38,5 @@
 # secrets we need for dev and test, so
 # we really don't want them in version control
 .env.*.local
+.env.development
+.env.test
